@@ -1,0 +1,33 @@
+The Legend Of Zelda: Ocarina Of Time	1998	Nintendo 64
+Super Mario 64	1996	Nintendo 64
+Metal Gear Solid	1998	PlayStation
+Final Fantasy Vii	1997	PlayStation
+Gran Turismo	1997	PlayStation
+Resident Evil 2	1998	PlayStation
+Halo: Combat Evolved	2001	Xbox
+Gears Of War	2006	Xbox 360
+The Elder Scrolls V: Skyrim	2011	PlayStation 3, Xbox 360, PC
+Red Dead Redemption	2010	PlayStation 3, Xbox 360
+Dark Souls	2011	PlayStation 3, Xbox 360, PC
+The Witcher 3: Wild Hunt	2015	PlayStation 4, Xbox One, PC
+God Of War	2018	PlayStation 4
+The Last Of Us	2013	PlayStation 3
+Uncharted 2: Among Thieves	2009	PlayStation 3
+Shadow Of The Colossus	2005	PlayStation 2
+Ico	2001	PlayStation 2
+Resident Evil 4	2005	GameCube, PlayStation 2
+Super Smash Bros. Melee	2001	GameCube
+Metroid Prime	2002	GameCube
+Chrono Trigger	1995	Super Nintendo
+Super Metroid	1994	Super Nintendo
+Donkey Kong Country	1994	Super Nintendo
+Castlevania: Symphony Of The Night	1997	PlayStation
+Persona 5	2016	PlayStation 4
+Hollow Knight	2017	PC, Nintendo Switch
+Celeste	2018	PC, Nintendo Switch
+Undertale	2015	PC
+Doom	1993	PC
+Half-Life 2	2004	PC
+Ww	1998	1
+Test	9999	Ps
+Supercampeones	1993	Ps
